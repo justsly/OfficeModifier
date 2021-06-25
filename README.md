@@ -15,5 +15,5 @@ The tool can be like this:
 
 # EXAMPLES
 
-`OfficeModifier.exe -f example.docm -n StreamNameInCFBFStructure -a C:\PathTo\StreamOnDisk`
-`OfficeModifier.exe -f example.docm -r Table1`
+* `OfficeModifier.exe -f example.docm -n StreamNameInCFBFStructure -a C:\PathTo\StreamOnDisk`
+* `OfficeModifier.exe -f example.docm -r Table1`
